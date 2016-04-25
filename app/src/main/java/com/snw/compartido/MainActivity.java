@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-    private String oscar = "hola";
+    private String edgar = "edgar";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
